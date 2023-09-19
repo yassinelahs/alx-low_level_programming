@@ -8,7 +8,7 @@
  *
  * Return: lenght of a string
  */
-void _puts(char *s)
+void print_rev(char *s)
 {
 	int i = 0;
 
