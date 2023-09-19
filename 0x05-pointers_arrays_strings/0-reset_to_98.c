@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * 0-reset_to_98.c
+ * reset_to_98
  *
- * Description: ' takes a pointer to an int as parameter and updates the value it points to to 98'
+ * Description: 'updates the value it points to to 98'
  * @n: int parameter
  *
  * Return: nothing
