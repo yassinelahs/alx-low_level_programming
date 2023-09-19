@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * reset_to_98: 'pointer upfatrs'
+ * reset_to_98 - pointer upfatrs
  *
  * Description: 'updates the value it points to to 98'
  * @n: int parameter
