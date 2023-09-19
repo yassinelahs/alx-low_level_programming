@@ -9,7 +9,7 @@
  * Return: lenght of a string
  */
 
-void _strlen(char *s)
+int _strlen(char *s)
 {
 	int count;
 
